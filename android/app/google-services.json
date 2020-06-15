@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77323621470",
+    "firebase_url": "https://travelapp-deb06.firebaseio.com",
+    "project_id": "travelapp-deb06",
+    "storage_bucket": "travelapp-deb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77323621470:android:0ad061e26ead76035310cf",
+        "android_client_info": {
+          "package_name": "com.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77323621470-9tavcq02ekrvm00jb0h9ps39pesqgnh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graduation_project",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "77323621470-uppg5c17hahc83iglcnmlllj21juf9on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoN4potmVwbmXs5TATVGl_mtxkRQyVx48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77323621470-uppg5c17hahc83iglcnmlllj21juf9on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
